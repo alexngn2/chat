@@ -49,7 +49,9 @@ ul {
 /* Login Page */
 
 .login.page {
-  background-color: #000;
+  background-image: url(figure-life-stages.jpg);
+  background-size: cover;
+  background-position: Center;
 }
 
 .login.page .form {
